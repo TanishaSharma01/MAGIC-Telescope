@@ -1,12 +1,9 @@
 # Machine Learning Dependencies for MAGIC Gamma-Hadron Classification
-torch
-torchvision
-torchaudio
-tensorflow
-numpy
-pandas
-matplotlib
-scikit-learn
-imbalanced-learn
-jupyter
-notebook
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+imbalanced-learn>=0.8.0
+jupyter>=1.0.0
+notebook>=6.4.0
+seaborn>=0.11.0
